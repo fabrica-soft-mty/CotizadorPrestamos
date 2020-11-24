@@ -3,7 +3,7 @@ import {calcularTotal} from '../herlpers';
 
 
 const Formulario =(props)=>{
-    const {cantidad,guardarCantidad,plazo,guardarPlazo,total,guardarTotal,guardarCargando} = props;
+    const {cantidad,guardarCantidad,plazo,guardarPlazo,guardarTotal,guardarCargando} = props;
     //Definir sate
     const [error,guardarError]=useState(false);
 
