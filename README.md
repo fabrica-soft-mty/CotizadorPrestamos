@@ -1,5 +1,5 @@
 Cotizador de Prestamos desglosado en pagos de 3 6 y 12 meses calculando una tasa de interes
-prueba la app cotizadorprestamosreact.netlify.app
+prueba la app [Cotizador de prestamos](cotizadorprestamosreact.netlify.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
